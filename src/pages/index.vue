@@ -13,8 +13,7 @@ const ping = async () => {
 </script>
 
 <template>
-  <h1 class="text-clip">Hello World !</h1>
-  <button @click="ping">ping</button>
+  <h1>Page Chapters</h1>
 
   <NuxtLink to="/chapters/1">Go to About</NuxtLink>
 </template>

@@ -1,3 +1,4 @@
 <template>
+  <GradientForm />
   <NuxtPage />
 </template>
